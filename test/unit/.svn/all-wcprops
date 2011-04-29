@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ruby/!svn/ver/153/trunk/spchain/test/unit
+END
+problems_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ruby/!svn/ver/153/trunk/spchain/test/unit/problems_test.rb
+END
+solution_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ruby/!svn/ver/153/trunk/spchain/test/unit/solution_test.rb
+END
+problem_to_solution_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ruby/!svn/ver/153/trunk/spchain/test/unit/problem_to_solution_test.rb
+END
+connection_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ruby/!svn/ver/153/trunk/spchain/test/unit/connection_test.rb
+END
+problem_from_solution_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ruby/!svn/ver/153/trunk/spchain/test/unit/problem_from_solution_test.rb
+END
+problem_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ruby/!svn/ver/153/trunk/spchain/test/unit/problem_test.rb
+END
+solution_to_problem_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ruby/!svn/ver/153/trunk/spchain/test/unit/solution_to_problem_test.rb
+END

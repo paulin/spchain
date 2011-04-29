@@ -1,0 +1,8 @@
+        <div id="user_nav">
+          <a id="logo" href="/"></a>
+          <div id="menu">
+              <a href="#">Add an idea</a>
+              <a href="#">I find problems</a>
+              <a href="#">I find solutions</a>
+          </div>
+        </div>

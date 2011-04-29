@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ruby/!svn/ver/153/trunk/spchain/test/fixtures
+END
+problem_to_solutions.yml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ruby/!svn/ver/153/trunk/spchain/test/fixtures/problem_to_solutions.yml
+END
+solutions.yml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ruby/!svn/ver/153/trunk/spchain/test/fixtures/solutions.yml
+END
+solution_to_problems.yml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ruby/!svn/ver/153/trunk/spchain/test/fixtures/solution_to_problems.yml
+END
+problems.yml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ruby/!svn/ver/153/trunk/spchain/test/fixtures/problems.yml
+END
+connections.yml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ruby/!svn/ver/153/trunk/spchain/test/fixtures/connections.yml
+END
+problem_from_solutions.yml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ruby/!svn/ver/153/trunk/spchain/test/fixtures/problem_from_solutions.yml
+END

@@ -1,0 +1,15 @@
+<p class="notice"><%= notice %></p>
+ 
+<p>
+  <h2>Can you solve this problem?:</h2>
+  <p>
+  <%= @problem.description %>
+  </p>
+</p>
+ 
+<h2>What is your solution?:</h2>
+<%= render :file => 'solutions/_form.html.erb' %>
+<p>	
+	<%= link_to 'Dunno, give me an easier problem...', new_solver_path %>
+</p>
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ruby/!svn/ver/153/trunk/spchain/config/environments
+END
+development.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ruby/!svn/ver/153/trunk/spchain/config/environments/development.rb
+END
+production.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ruby/!svn/ver/153/trunk/spchain/config/environments/production.rb
+END
+test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ruby/!svn/ver/153/trunk/spchain/config/environments/test.rb
+END

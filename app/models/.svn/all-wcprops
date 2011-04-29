@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ruby/!svn/ver/153/trunk/spchain/app/models
+END
+problem_to_solution.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ruby/!svn/ver/153/trunk/spchain/app/models/problem_to_solution.rb
+END
+solution.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ruby/!svn/ver/153/trunk/spchain/app/models/solution.rb
+END
+solution_to_problem.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ruby/!svn/ver/153/trunk/spchain/app/models/solution_to_problem.rb
+END
+problem.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ruby/!svn/ver/153/trunk/spchain/app/models/problem.rb
+END

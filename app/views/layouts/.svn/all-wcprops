@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ruby/!svn/ver/153/trunk/spchain/app/views/layouts
+END
+application.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ruby/!svn/ver/153/trunk/spchain/app/views/layouts/application.html.erb
+END
+_header.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ruby/!svn/ver/153/trunk/spchain/app/views/layouts/_header.html.erb
+END
+_footer.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ruby/!svn/ver/153/trunk/spchain/app/views/layouts/_footer.html.erb
+END
+_stylesheets.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ruby/!svn/ver/153/trunk/spchain/app/views/layouts/_stylesheets.html.erb
+END

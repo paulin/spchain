@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/ruby/!svn/ver/152/trunk/spchain
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ruby/!svn/ver/153/trunk/spchain/Rakefile
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ruby/!svn/ver/153/trunk/spchain/.gitignore
+END
+.loadpath
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ruby/!svn/ver/153/trunk/spchain/.loadpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ruby/!svn/ver/153/trunk/spchain/.project
+END
+Gemfile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ruby/!svn/ver/153/trunk/spchain/Gemfile
+END
+Gemfile.lock
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ruby/!svn/ver/153/trunk/spchain/Gemfile.lock
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ruby/!svn/ver/153/trunk/spchain/README
+END
+config.ru
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ruby/!svn/ver/153/trunk/spchain/config.ru
+END

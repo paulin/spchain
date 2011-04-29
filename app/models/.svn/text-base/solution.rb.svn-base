@@ -1,0 +1,11 @@
+class Solution < ActiveRecord::Base
+  attr_accessible :description
+  
+  has_many :solution_to_problems
+  has_many :problem_to_solutions
+  has_many :solved_problems, :through => :solution_to_problems, :source => solution_to_problem
+  has_many :problems, :through => :problem_to_solutions
+  
+  validates :description, :presence => true,
+                    :length => { :minimum => 10} 
+end

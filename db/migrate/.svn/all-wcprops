@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ruby/!svn/ver/153/trunk/spchain/db/migrate
+END
+20110423204625_create_solution_to_problems.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ruby/!svn/ver/153/trunk/spchain/db/migrate/20110423204625_create_solution_to_problems.rb
+END
+20110424034958_create_problems.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ruby/!svn/ver/153/trunk/spchain/db/migrate/20110424034958_create_problems.rb
+END
+20110423205714_create_problem_to_solutions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ruby/!svn/ver/153/trunk/spchain/db/migrate/20110423205714_create_problem_to_solutions.rb
+END
+20110424035027_create_solutions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ruby/!svn/ver/153/trunk/spchain/db/migrate/20110424035027_create_solutions.rb
+END

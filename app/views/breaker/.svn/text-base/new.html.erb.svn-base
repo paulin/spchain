@@ -1,0 +1,15 @@
+<p class="notice"><%= notice %></p>
+ 
+<p>
+  <h2>Can you break this solution?:</h2>
+  <p>
+  <%= @solution.description %>
+  </p>
+</p>
+ 
+<h2>What problems does this solution have?:</h2>
+<%= render :file => 'problems/_form.html.erb' %>
+<p>	
+	<%= link_to 'Dunno, this solution seems rock solid to me...', new_breaker_path %>
+</p>
+

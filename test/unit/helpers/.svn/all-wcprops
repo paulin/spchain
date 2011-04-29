@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ruby/!svn/ver/153/trunk/spchain/test/unit/helpers
+END
+solutions_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ruby/!svn/ver/153/trunk/spchain/test/unit/helpers/solutions_helper_test.rb
+END
+solution_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ruby/!svn/ver/153/trunk/spchain/test/unit/helpers/solution_helper_test.rb
+END
+dashboard_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ruby/!svn/ver/153/trunk/spchain/test/unit/helpers/dashboard_helper_test.rb
+END
+problems_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ruby/!svn/ver/153/trunk/spchain/test/unit/helpers/problems_helper_test.rb
+END
+solver_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ruby/!svn/ver/153/trunk/spchain/test/unit/helpers/solver_helper_test.rb
+END
+problem_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ruby/!svn/ver/153/trunk/spchain/test/unit/helpers/problem_helper_test.rb
+END
+breaker_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ruby/!svn/ver/153/trunk/spchain/test/unit/helpers/breaker_helper_test.rb
+END

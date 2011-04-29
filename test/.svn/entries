@@ -1,0 +1,84 @@
+9
+
+dir
+153
+https://office.pugetworks.com/svn/ruby/trunk/spchain/test
+https://office.pugetworks.com/svn/ruby
+
+
+
+2011-04-29T14:25:53.967073Z
+153
+mpaulin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ff25d95f-1288-4e57-b4c5-f66da343f9f5
+
+
+
+
+
+
+0
+
+fixtures
+dir
+
+functional
+dir
+
+integration
+dir
+
+performance
+dir
+
+test_helper.rb
+file
+
+
+
+
+2011-04-23T14:15:03.984000Z
+2b8130eb4e1a65bce16e6e0fbe90d447
+2011-04-29T14:25:53.967073Z
+153
+mpaulin
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+454
+
+unit
+dir
+

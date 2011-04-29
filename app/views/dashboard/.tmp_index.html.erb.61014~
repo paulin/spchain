@@ -1,0 +1,9 @@
+<h1>Dashboard#index</h1>
+<h2>Activities</h2>
+<p>
+	<a href="#">Add an idea</a>
+	<a href="#">I find problems</a>
+	<a href="#">I find solutions</a>
+</p>
+	
+<p>Find me in app/views/dashboard/index.html.erb</p>

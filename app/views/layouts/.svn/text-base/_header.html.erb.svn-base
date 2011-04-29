@@ -1,0 +1,10 @@
+        <div id="user_nav">
+          <a id="logo" href="/"></a>
+          <div id="menu">
+          	  <%= link_to 'Dashboard', "/" %>
+          	  <%= link_to 'Add a Solution', new_solution_path %>
+          	  <%= link_to 'Add a Problem', new_problem_path %>
+          	  <%= link_to 'Solve Problems', new_solver_path %>
+          	  <%= link_to 'Break Solutions', new_breaker_path %>
+          </div>
+        </div>

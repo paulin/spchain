@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/ruby/!svn/ver/153/trunk/spchain/db
+END
+development.sqlite3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ruby/!svn/ver/153/trunk/spchain/db/development.sqlite3
+END
+seeds.rb
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ruby/!svn/ver/153/trunk/spchain/db/seeds.rb
+END
+schema.rb
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ruby/!svn/ver/153/trunk/spchain/db/schema.rb
+END

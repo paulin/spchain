@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ruby/!svn/ver/153/trunk/spchain/app/helpers
+END
+problem_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ruby/!svn/ver/153/trunk/spchain/app/helpers/problem_helper.rb
+END
+application_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ruby/!svn/ver/153/trunk/spchain/app/helpers/application_helper.rb
+END
+solver_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ruby/!svn/ver/153/trunk/spchain/app/helpers/solver_helper.rb
+END
+dashboard_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ruby/!svn/ver/153/trunk/spchain/app/helpers/dashboard_helper.rb
+END
+problems_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ruby/!svn/ver/153/trunk/spchain/app/helpers/problems_helper.rb
+END
+solution_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ruby/!svn/ver/153/trunk/spchain/app/helpers/solution_helper.rb
+END
+solutions_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ruby/!svn/ver/153/trunk/spchain/app/helpers/solutions_helper.rb
+END
+breaker_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ruby/!svn/ver/153/trunk/spchain/app/helpers/breaker_helper.rb
+END

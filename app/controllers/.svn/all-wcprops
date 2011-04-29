@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ruby/!svn/ver/153/trunk/spchain/app/controllers
+END
+application_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ruby/!svn/ver/153/trunk/spchain/app/controllers/application_controller.rb
+END
+solver_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ruby/!svn/ver/153/trunk/spchain/app/controllers/solver_controller.rb
+END
+dashboard_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ruby/!svn/ver/153/trunk/spchain/app/controllers/dashboard_controller.rb
+END
+problems_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ruby/!svn/ver/153/trunk/spchain/app/controllers/problems_controller.rb
+END
+solutions_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ruby/!svn/ver/153/trunk/spchain/app/controllers/solutions_controller.rb
+END
+breaker_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ruby/!svn/ver/153/trunk/spchain/app/controllers/breaker_controller.rb
+END
